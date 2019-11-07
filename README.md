@@ -6,3 +6,6 @@
 *Web app built using Flask.*
 
 ### <a href="https://death-statement-generator.herokuapp.com/">Try the Web App!<a>
+
+<br>
+<img src="screenshots/death-statement-generator-screenshot.jpg" width="600">
