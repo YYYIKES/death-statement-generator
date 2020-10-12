@@ -5,7 +5,7 @@
 *Script written in Python3 using the Markovify package.*<br>
 *Web app built using Flask.*
 
-### <a href="https://death-statement-generator.herokuapp.com/">Try the Web App!<a>
+### <a href="https://death-statement-generator.herokuapp.com/">Live demo<a>
 
 <br>
 <img src="screenshots/death-statement-generator-screenshot.jpg" width="600">
